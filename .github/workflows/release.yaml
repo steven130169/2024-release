@@ -21,18 +21,13 @@ jobs:
       id-token: write # to enable use of OIDC for npm provenance
     strategy:
       matrix:
-        node-version: [20.8.1]
+        node-version: [ 20.8.1 ]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
       - run: npm install
         env:
           HUSKY: 0
