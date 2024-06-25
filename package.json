@@ -1,7 +1,7 @@
 {
   "name": "2024-release",
   "version": "1.1.0",
-  "description": "add feature",
+  "description": "first release",
   "main": "index.js",
   "scripts": {
     "test": "jest",
