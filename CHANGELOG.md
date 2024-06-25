@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/steven130169/2024-release/compare/v1.2.0...v1.3.0) (2024-06-25)
+
+
+### Features
+
+* add feature.js ([47c9e38](https://github.com/steven130169/2024-release/commit/47c9e3807ca935ea848b839b84c80043a1b8fd4c))
+
 # [1.2.0](https://github.com/steven130169/2024-release/compare/v1.1.0...v1.2.0) (2024-06-25)
 
 
