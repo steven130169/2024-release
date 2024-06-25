@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/steven130169/2024-release/compare/v1.3.0...v1.4.0) (2024-06-25)
+
+
+### Features
+
+* add hello world ([f7c34c5](https://github.com/steven130169/2024-release/commit/f7c34c57b3a59b33e69b159507f98d596e95ad9c))
+
 # [1.3.0](https://github.com/steven130169/2024-release/compare/v1.2.0...v1.3.0) (2024-06-25)
 
 
