@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/steven130169/2024-release/compare/v1.4.0...v1.5.0) (2024-06-25)
+
+
+### Features
+
+* add hello second world ([a370fd7](https://github.com/steven130169/2024-release/commit/a370fd7e885c03415b3ab8f9ead6688ef408b450))
+
 # [1.4.0](https://github.com/steven130169/2024-release/compare/v1.3.0...v1.4.0) (2024-06-25)
 
 
