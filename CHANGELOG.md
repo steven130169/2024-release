@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/steven130169/2024-release/compare/v1.1.0...v1.2.0) (2024-06-25)
+
+
+### Features
+
+* add feature commit ([134235c](https://github.com/steven130169/2024-release/commit/134235caba3b8e5136be6b1caff492059931c718))
+
 # [1.1.0](https://github.com/steven130169/2024-release/compare/v1.0.0...v1.1.0) (2024-02-17)
 
 
