@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/steven130169/2024-release/compare/v1.5.0...v1.6.0) (2024-06-26)
+
+
+### Features
+
+* add hello 3 world ([122a141](https://github.com/steven130169/2024-release/commit/122a141cb3bc3ba1b18e901ed14dbc34acf0d30a))
+
 # [1.5.0](https://github.com/steven130169/2024-release/compare/v1.4.0...v1.5.0) (2024-06-25)
 
 
