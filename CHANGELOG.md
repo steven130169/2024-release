@@ -1,3 +1,16 @@
+# [1.9.0](https://github.com/steven130169/2024-release/compare/v1.8.0...v1.9.0) (2024-06-27)
+
+
+### Bug Fixes
+
+* add first bug ([844735f](https://github.com/steven130169/2024-release/commit/844735f96f14ceaf2d79d5271d5040a4574b1e20))
+
+
+### Features
+
+* add first bug ([c911f75](https://github.com/steven130169/2024-release/commit/c911f75a213527ba22cc76bf038b7dda9d0f477d))
+* add second feature ([c33474b](https://github.com/steven130169/2024-release/commit/c33474be3a5c1b92499df9102441bf332ac75ea0))
+
 # [1.8.0](https://github.com/steven130169/2024-release/compare/v1.7.0...v1.8.0) (2024-06-27)
 
 

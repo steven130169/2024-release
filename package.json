@@ -1,6 +1,6 @@
 {
   "name": "2024-release",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "feature commit",
   "main": "index.js",
   "scripts": {
